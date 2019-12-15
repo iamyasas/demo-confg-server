@@ -1,2 +1,2 @@
-config1: aaaa
-config2: bbbb
+app:
+  greeting: Greeting from default properties
