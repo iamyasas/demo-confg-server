@@ -1,2 +1,7 @@
 app:
   greeting: Greeting from remote default properties
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
