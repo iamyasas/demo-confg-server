@@ -1,5 +1,5 @@
 app:
-  greeting: Greeting from remote default properties
+  greeting: Greeting from new remote default properties
 management:
   endpoints:
     web:
